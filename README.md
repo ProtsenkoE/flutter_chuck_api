@@ -1,4 +1,4 @@
-# "Chuck Norris Api" app using Flutter
+# Chuck Norris Api app using Flutter
 
 <a href="https://api.chucknorris.io">Chucknorris.io</a> is a free JSON API for hand curated Chuck Norris facts.
 
